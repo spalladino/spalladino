@@ -17,4 +17,5 @@
 - [LinkedIn](https://www.linkedin.com/in/spalladino/)
 - [Youtube](https://www.youtube.com/@spalladino)
 - [Telegram](https://t.me/spalladino)
+- [Dev.to](https://dev.to/spalladino)
 - [Personal page](https://palla.dev)
