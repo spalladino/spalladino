@@ -10,12 +10,6 @@
 
 :orange_book: I wrote the book [Ethereum for Web Developers](https://palla.dev/book) in 2019, and keep generating content for onboarding devs to the web3 space.
 
-## Where you can find me
+---
 
-- [Twitter](https://twitter.com/smpalladino)
-- [Polywork](https://www.polywork.com/spalladino)
-- [LinkedIn](https://www.linkedin.com/in/spalladino/)
-- [Youtube](https://www.youtube.com/@spalladino)
-- [Telegram](https://t.me/spalladino)
-- [Dev.to](https://dev.to/spalladino)
-- [Personal page](https://palla.dev)
+[Twitter](https://twitter.com/smpalladino) | [Polywork](https://www.polywork.com/spalladino) | [LinkedIn](https://www.linkedin.com/in/spalladino/) | [Youtube](https://www.youtube.com/@spalladino) | [Telegram](https://t.me/spalladino) | [Dev.to](https://dev.to/spalladino) | [Personal page](https://palla.dev) 
